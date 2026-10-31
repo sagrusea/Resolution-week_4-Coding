@@ -85,13 +85,3 @@ Example output:
 Lines: 5
 Words: 9
 ```
-
-## Running from VS Code
-
-1. Open this folder in VS Code.
-2. Make sure the C/C++ extension and GCC are installed.
-3. Open either `calc.c` or `wordCounter.c`.
-4. Use the build task from **Terminal > Run Build Task**.
-5. Run the generated executable from the integrated terminal using the commands
-   above.
-
